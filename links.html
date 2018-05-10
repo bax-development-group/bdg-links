@@ -1,35 +1,43 @@
 <!DOCTYPE html>
-<html lang="en" >
-
+<html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>mouse parallax demo</title>
-  
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">
-
-  
-      <link rel="stylesheet" href="css/style1.css">
-
-  
+<style>
+  body  {
+  background-image: url("test.jpg");
+}
+</style>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"> 
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </head>
 <body>
-<h2>My Website Links!</h2>
-<table style="width:100%">
-  <tr>
-    <th>Name of Site</th>
-    <th>URL</th> 
-  </tr>
-  <tr>
-    <td>Gaming/Blog Site</td>
-    <td>https://www.baxtr.us/</td>
-  </tr>
-  <tr>
-    <td>Personal Site</td>
-    <td>http://personal.baxtr.us/</td>
-  </tr>
-  <tr>
-	
-</table>
+<div class="container-fluid">
+    <nav class="navbar navbar-expand-sm" style="width:100%">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <a class="navbar-brand" href="links.html"><font color="gray"><strong>Baxtr Links</strong></font></a>
+        </div>
+        <ul class="nav navbar-nav navbar-right">
+          <li><a href="login.html"><span class="glyphicon glyphicon-log-in"></span> <strong> Login</strong></a></li>
+        </ul>
+      </div>
+    </nav>
+  <div class="row">
+    <div class="col-sm-5" style=""></div>
+    <div class="col-sm-2"  style="background-color:#555555; text-align:center; padding:50px 10px 50px 10px;box-shadow: 0 5px 30px rgba(0, 0, 0, 0.5);";>
+    <img src="shape2.gif" style="width:200px;height:200px;">
+    <p><font color="black"><strong>Baxtr's Web Links</strong></font></p>
+    <p><a href="https://www.baxtr.us/"><font color="white">Blogs</font></a>
+    </p><p><a href="http://personal.baxtr.us/"><font color="white">Personal Site</font></a></p>
+    <p><a href="http://images.baxtr.us/"><font color="white">Image Host</font></a></p>
+    <p><a href=""><font color="white">Gaming Links</font></a></p></div>
+    <div class="col-sm-5" style=""></div>
+  </div>
+</div>
 
 </body>
 </html>
