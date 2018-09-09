@@ -1,0 +1,20 @@
+-baxtr-
+"bio"
+"Twitter icon"
+"Github Icon"
+
+"Earth Time"
+date/time - pull UTC
+
+Stats:
+Last Site Update
+Last Github Update
+site verison - v2.0
+
+projects
+www.baxtr.club
+www.baxdevgroup.us
+www.gamerit.us
+
+Contact
+andrew@baxter.tamz.us
