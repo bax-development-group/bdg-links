@@ -1,0 +1,35 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("img/linksbg.jpg");
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.logo img {
+    width: 100px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.text p a {
+    color: white;
+    text-decoration: none;
+    font-family: "Roboto", sans-serif;
+    font-size: 50px;
+}
+.text p a:hover {
+    border: 1px solid white;
+}
+.text p {
+    margin: 30px;
+}
+.text {
+    text-align: center;
+    margin: 100px
+}

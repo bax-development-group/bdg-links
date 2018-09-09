@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Baxtr Marketing</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="shortcut icon" type="image/png" href="http://images.baxtr.us/images/wp-img/a.png"/>
+  <link href="https://fonts.googleapis.com/css?family=Roboto+Slab" rel="stylesheet">
+  <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<style>
+    * {
+        overflow: hidden;
+    }
+    .container-fluid {
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    background-color: gray;
+    }
+    .col-xs-6 {
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    }
+    .about-text {
+        padding-right: 50%;
+        padding-left: 50%;
+        margin-right: 50%;
+        margin-left: 50%;
+        vertical-align: middle;
+        display: table-cell;
+    }
+    .baxtrh1 {
+        font-weight: bold;
+        padding-top: 30px;
+        font-family: 'Roboto Slab', serif;
+        font-size: 60px;
+        margin-bottom: 0px;
+        color: black;
+    }
+    .baxtrh2 {
+        font-weight: bold;
+        padding-top: 30px;
+        font-family: 'Roboto Slab', serif;
+        font-size: 40px;
+        margin-bottom: 0px;
+        color: #fff
+    }
+    
+    .baxtrh3 {
+        font-weight: normal;
+        font-family: 'Roboto Slab', serif;
+        font-size: 35px;
+        margin-top: 30px;
+        color: #fff
+    }
+    .media {
+        position: absolute;
+        top: 40%;
+        left: 50%;
+        transform: translate(-53, -50%)
+    }
+    li {
+        list-style: none;
+        margin: 10px 50px;
+        display: inline-block;
+        font-size: 10px;
+        padding: 10px 10px;
+        color: #fff;
+        border: 1px solid #fff;
+        border-radius: 80%
+    }
+    p {
+        font-family: 'Robot Slab', serif;
+        color: #fff;
+        font-size: 22px;
+        padding-left: 40px;
+        padding-right: 40px;
+        margin-bottom: 30px;
+    }
+    .baxsocial {
+        margin: 4px;
+        padding: 0!important;
+        display: inline-block;
+        border: none!important;
+        list-style: none!important;
+    }
+
+    .contactus {
+        font-weight: normal;
+        font-family: 'Roboto Slab', serif;
+        font-size: 20px;
+        margin-top: 225px;
+        color: black
+    }
+</style>
+</head>
+<body>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-xs-6">
+                <img src="http://images.baxtr.us/wp-img/wulfad.gif" alt="wulfadvertisement" style="width: 100%; height: 950px">
+            </div>
+            <div class="col-xs-6">
+                <h1 class="baxtrh1" style="text-align: center"><a href="https://baxtr.us" style="color: black; text-decoration: none;">Baxtr Marketing</a></h1>
+                <h3 class="baxtrh3" style="text-align: center">Wulf Zone Groups</h1>
+                <p style="text-align: center">
+                    <a href="https://discord.gg/8XXR5Dv" style="color: blue;text-decoration: none;">Discord Server</a>
+                </p>
+                <p style="text-align: center">
+                    <a href="https://steamcommunity.com/groups/wgams" style="color: blue;text-decoration: none;">Steam Group</a>
+                </p>
+                <p style="text-align: center">
+                    <a href="http://www.wulf.gg" style="color: blue;text-decoration: none;">Website</a>
+                </p>
+                <h3 class="baxtrh3" style="text-align: center">Baxtr Zone Groups</h3>
+                <p style="text-align: center">
+                    <a href="https://discord.gg/uS6Dpqf" style="color: blue;text-decoration: none;">Discord Server</a>
+                </p>
+                <p style="text-align: center">
+                    <a href="https://steamcommunity.com/groups/baxtrzone" style="color: blue;text-decoration: none;">Steam Group</a>
+                </p>
+                <p style="text-align: center">
+                    <a href="http://baxtr.us" style="color: blue;text-decoration: none;">Website</a>
+                </p>
+                <h3 class="contactus" style="text-align: center">Interested in working with us?</h3>
+                <p style="text-align: center">
+                    <a href="mailto:andrew@baxter.tamz.us" style="color: blue;text-decoration: none;">Contact Us!</a>
+                </p>
+            </div>
+        </div>
+    </div>
+</body>
